@@ -1,2 +1,2 @@
-my_C--_projects
+my_projects
 ===============
